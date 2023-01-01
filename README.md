@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Software+Engineer;React.js+Developer)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Manish Nishad</h1>
 <h3 align="center">A passionate aspiring Full Stack Developer (MERN), Software Engineer. Curious to learn about emerging web technologies. Ability to translate business requirements into technical solutions. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 
