@@ -25,7 +25,7 @@
 <a href="https://twitter.com/manishnishad18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manishnishad18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manish-nishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-nishad" height="30" width="40" /></a>
 <a href="https://codesandbox.com/maknish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="maknish" height="30" width="40" /></a>
-<a href="https://instagram.com/mak_nishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mak_nishad" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/mak_nishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mak_nishad" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Tech Stack:</h3>
